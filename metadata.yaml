@@ -1,5 +1,5 @@
 _repo: Diana-of-the-Crossways-Volume-4_4468
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcsh 'Political fiction'
 - !lcsh 'Married women -- Fiction'
 - !lcsh 'Great Britain -- Fiction'
+- GITenberg
 title: Diana of the Crossways — Volume 4
 url: http://www.gutenberg.org/ebooks/4468
